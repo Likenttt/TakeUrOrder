@@ -1,2 +1,2 @@
 # TakeUrOrder
-A SpringCloud system for dinning hall to taking order for the guests.
+It is A system based on Spring Cloud for dinning hall to take orders for the guests.
